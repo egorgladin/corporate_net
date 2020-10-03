@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}Home Page{% endblock %}
+
+{% block content %}
+<h1>{{name}}</h1>
+<p>
+	<b>Skills:</b> {{skills}}<br />
+</p>
+<h3>Top 5 recommended projects</h3>
+{% for proj_descr in projects %}
+		 <p>{{proj_descr}}</p>
+{% endfor %}
+{% endblock %}
