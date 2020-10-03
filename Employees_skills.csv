@@ -1,0 +1,101 @@
+id,name,skills,rating
+1,Piper Dingledine,"['Sales tactic', 'Storytelling', 'Relation building']",6.4
+2,Dennis Cardenas,"['Strategic Thinking', 'Communication', 'Decision Making']",6.9
+3,William Mooney,"['Perseverance', 'Self-Motivation', 'Independence']",4.7
+4,Ashley Rifkin,"['Sales tactic', 'Storytelling', 'Relation building']",6.7
+5,Lisa Yruegas,"['Strategic Thinking', 'Communication', 'Decision Making']",8.0
+6,Ellen Smith,"['Problem solving', 'Automation', 'Daily technologies']",4.3
+7,Dotty Deason,"['People Management', 'Budgeting', 'Hiring']",5.2
+8,Nickolas McCarney,"['Strategic Thinking', 'Communication', 'Decision Making']",9.7
+9,Dennis Gist,"['Problem solving', 'Automation', 'Daily technologies']",8.4
+10,Juanita Delabarre,"['Problem solving', 'Automation', 'Daily technologies']",4.9
+11,Nancy Villanueva,"['Perseverance', 'Self-Motivation', 'Independence']",4.7
+12,Samuel Iaccarino,"['Perseverance', 'Self-Motivation', 'Independence']",5.1
+13,Julie Lams,"['Strategic Thinking', 'Communication', 'Decision Making']",6.3
+14,Bernice Schuck,"['Strategic Thinking', 'Communication', 'Decision Making']",7.7
+15,Tanner Harrington,"['People Management', 'Budgeting', 'Hiring']",5.2
+16,Norman Ruiz,"['Perseverance', 'Self-Motivation', 'Independence']",9.7
+17,Phyllis Harris,"['Strategic Thinking', 'Communication', 'Decision Making']",5.3
+18,Kyle Nava,"['Perseverance', 'Self-Motivation', 'Independence']",4.4
+19,Jimmie Shah,"['Problem solving', 'Automation', 'Daily technologies']",5.2
+20,Jeffrey Gutierrez,"['Problem solving', 'Automation', 'Daily technologies']",6.7
+21,Kyle Espinoza,"['Perseverance', 'Self-Motivation', 'Independence']",8.4
+22,Richard Rivera,"['Strategic Thinking', 'Communication', 'Decision Making']",5.0
+23,Dorothy McWilliams,"['Perseverance', 'Self-Motivation', 'Independence']",8.7
+24,Arthur Klopp,"['People Management', 'Budgeting', 'Hiring']",6.1
+25,Eugene Tucker,"['Perseverance', 'Self-Motivation', 'Independence']",5.4
+26,Terri Kestler,"['Problem solving', 'Automation', 'Daily technologies']",4.7
+27,Robert Flynn,"['People Management', 'Budgeting', 'Hiring']",8.0
+28,Karen Puckett,"['Problem solving', 'Automation', 'Daily technologies']",4.7
+29,Nathanial Desantis,"['People Management', 'Recruitment', 'Hiring']",10.0
+30,Jennifer Taylor,"['People Management', 'Recruitment', 'Communication']",5.4
+31,Charles Chavarria,"['People Management', 'Recruitment', 'Hiring']",4.2
+32,David Teller,"['People Management', 'Recruitment', 'Hiring']",4.6
+33,Jennifer Deangelis,"['People Management', 'Recruitment', 'Conference']",8.9
+34,Virginia Dollar,"['People Management', 'Budgeting', 'Hiring']",7.2
+35,Rickie Kerr,"['Sales tactic', 'Storytelling', 'Relation building']",5.5
+36,Dwight Quinn,"['Problem solving', 'Automation', 'Daily technologies']",5.7
+37,Evelyn Massey,"['Problem solving', 'Automation', 'Daily technologies']",9.0
+38,John Dworaczyk,"['People Management', 'Budgeting', 'Hiring']",7.9
+39,Pamela Nelson,"['Perseverance', 'Self-Motivation', 'Independence']",4.7
+40,Troy Payne,"['Problem solving', 'Automation', 'Daily technologies']",4.2
+41,Marvin Kelly,"['Perseverance', 'Self-Motivation', 'Independence']",6.6
+42,Ruben Thorne,"['Perseverance', 'Self-Motivation', 'Independence']",4.1
+43,William Lingner,"['Perseverance', 'Self-Motivation', 'Independence']",8.2
+44,Lucien Ewing,"['Strategic Thinking', 'Communication', 'Decision Making']",5.2
+45,Shanna Streeter,"['People Management', 'Budgeting', 'Hiring']",4.3
+46,Teresa Bush,"['Perseverance', 'Self-Motivation', 'Independence']",4.9
+47,Elisabeth Aslesen,"['Perseverance', 'Self-Motivation', 'Independence']",7.5
+48,Cheryl Henry,"['Sales tactic', 'Storytelling', 'Relation building']",7.0
+49,Wendell Reagan,"['Problem solving', 'Automation', 'Daily technologies']",5.7
+50,George Niese,"['Problem solving', 'Automation', 'Daily technologies']",9.3
+51,Colleen Banach,"['Problem solving', 'Automation', 'Daily technologies']",6.1
+52,Dorothy Ortega,"['People Management', 'Budgeting', 'Hiring']",5.1
+53,Steven Syvertsen,"['Problem solving', 'Automation', 'Daily technologies']",7.4
+54,Kellee Lillie,"['Strategic Thinking', 'Communication', 'Decision Making']",8.5
+55,Jennifer Oldridge,"['Sales tactic', 'Storytelling', 'Relation building']",5.9
+56,Nicholas Jones,"['Strategic Thinking', 'Communication', 'Decision Making']",9.8
+57,Erin Ambriz,"['Perseverance', 'Self-Motivation', 'Independence']",4.1
+58,Billie Adams,"['Sales tactic', 'Storytelling', 'Relation building']",5.0
+59,Raul Galloway,"['Sales tactic', 'Storytelling', 'Relation building']",6.2
+60,Justin Jackson,"['Problem solving', 'Automation', 'Daily technologies']",6.4
+61,Herman Foley,"['Sales tactic', 'Storytelling', 'Relation building']",5.7
+62,Jennie Jutz,"['Problem solving', 'Automation', 'Daily technologies']",8.3
+63,Robert Wagner,"['Problem solving', 'Automation', 'Daily technologies']",6.9
+64,Stephen Farnum,"['Strategic Thinking', 'Communication', 'Decision Making']",4.0
+65,Charlene Faulk,"['Problem solving', 'Automation', 'Daily technologies']",7.3
+66,Naomi Wilhelm,"['Perseverance', 'Self-Motivation', 'Independence']",9.5
+67,Bruce Davis,"['Perseverance', 'Self-Motivation', 'Independence']",9.4
+68,Bryce Hall,"['Problem solving', 'Automation', 'Daily technologies']",9.4
+69,Barbara Zheng,"['Sales tactic', 'Storytelling', 'Relation building']",6.8
+70,Brent Lisowski,"['Strategic Thinking', 'Communication', 'Decision Making']",7.5
+71,Virginia Loza,"['Sales tactic', 'Storytelling', 'Relation building']",7.7
+72,Jesse Wilkerson,"['People Management', 'Budgeting', 'Hiring']",4.7
+73,Anne Greenberg,"['Perseverance', 'Self-Motivation', 'Independence']",4.6
+74,Loretta Roberts,"['Problem solving', 'Automation', 'Daily technologies']",5.3
+75,Gayle Jack,"['Sales tactic', 'Storytelling', 'Relation building']",6.5
+76,Sandra Mondragon,"['Perseverance', 'Self-Motivation', 'Independence']",6.0
+77,Mathew Sims,"['Sales tactic', 'Storytelling', 'Relation building']",8.5
+78,Brent Straughn,"['Problem solving', 'Automation', 'Daily technologies']",5.8
+79,Charles Campbell,"['Problem solving', 'Automation', 'Daily technologies']",9.7
+80,Latoya Anderson,"['Perseverance', 'Self-Motivation', 'Independence']",7.8
+81,Margret Shields,"['Problem solving', 'Automation', 'Daily technologies']",5.2
+82,Regina Vasquez,"['People Management', 'Budgeting', 'Hiring']",7.8
+83,Ernest Fox,"['People Management', 'Budgeting', 'Hiring']",7.5
+84,Jeffrey Draper,"['People Management', 'Budgeting', 'Hiring']",8.3
+85,Michael Taylor,"['Strategic Thinking', 'Communication', 'Decision Making']",8.7
+86,Eileen Brehm,"['Strategic Thinking', 'Communication', 'Decision Making']",6.0
+87,Richard Causer,"['People Management', 'Budgeting', 'Hiring']",9.8
+88,Christopher Rathbone,"['Strategic Thinking', 'Communication', 'Decision Making']",7.9
+89,James Vanderpool,"['Problem solving', 'Automation', 'Daily technologies']",4.5
+90,Collen Williams,"['Sales tactic', 'Storytelling', 'Relation building']",7.9
+91,Cristopher Crum,"['Sales tactic', 'Storytelling', 'Relation building']",8.0
+92,Laura Halliburton,"['Perseverance', 'Self-Motivation', 'Independence']",9.3
+93,Mary Viall,"['Strategic Thinking', 'Communication', 'Decision Making']",9.6
+94,Rebecca Franklin,"['Strategic Planning', 'Communication', 'Decision Making']",7.6
+95,Arlene Roehm,"['Strategic Thinking', 'Communication', 'Decision Making', 'Drinking']",5.0
+96,Jan Knock,"['Problem solving', 'Automation', 'Daily technologies', 'Linux']",5.3
+97,Sandra Bellomo,"['Budgeting', 'Events']",8.3
+98,David Gieck,"['Budgeting', 'Events']",9.6
+99,Bob Toman,"['Budgeting', 'Office supplies']",9.4
+100,John Loftis,"['People Management', 'Budgeting', 'Hiring']",9.6
