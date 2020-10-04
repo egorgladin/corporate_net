@@ -26,3 +26,6 @@ IoU can have values from 0 (no common skills) up to 1 (required skills coincide 
 (**disclaimer:** this site is ugly, we use it to show that we can deploy a dynamic website. To see the GUI, go to <a href="https://dpereponov99.wixsite.com/nvidia">link</a>)
 * Insert ***any*** full name from `Employees.csv`. Examples: Piper Dingledine, Dennis Cardenas, William Mooney, Ashley Rifkin, Lisa Yruegas
 * Hit `submit` and you will see persons' skills and recommended projects with the highes IoU.
+
+### Comments
+The code that builds the websites is in `login.py`. HTML code is in `templates` folder.
